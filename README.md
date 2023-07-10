@@ -7,7 +7,7 @@ Run "Student Scores System" in the coding editor to enter the main interface of 
 
 Figure 1  the main interface of the system
 
-The operation steps are as follows:
+### The operation steps are as follows:
 
 ### （1）	Add student information. 
 At the position where the cursor is located to the right of "Enter a number:", enter the number 1 and press the <Enter> key. The system will prompt you to enter the student ID, student name, English score, Chinese score, and Python score. After entering the correct information, the system will ask if you want to continue adding information, as shown in Figure 2. Enter 'y' to be prompted to enter user information again or enter 'n' to save the entered student information to a file.
