@@ -8,10 +8,14 @@ Run "Student Scores System" in the coding editor to enter the main interface of 
 Figure 1  the main interface of the system
 
 The operation steps are as follows:
+
 （1）	Add student information. 
 At the position where the cursor is located to the right of "Enter a number:", enter the number 1 and press the <Enter> key. The system will prompt you to enter the student ID, student name, English score, Chinese score, and Python score. After entering the correct information, the system will ask if you want to continue adding information, as shown in Figure 2. Enter 'y' to be prompted to enter user information again or enter 'n' to save the entered student information to a file.
- 
+
+![image](https://github.com/slowpokestudycoding/student_score_system/assets/130159100/acdcc4cb-9a25-4259-8a5d-bd929b9a534b)
+
 Figure 2  Add a student information
+
 （2）	Find student information. 
 Enter the number 2 on the menu and press the <Enter> key. The system will prompt the user to choose whether to search by student ID or by student name. If the user enters 1, they will be asked to input the student ID to perform a search by student ID. Enter the desired student ID to search for that student's information. If the student information is found, it will be displayed, as shown in Figure 3. Otherwise, it will display "Sorry! No data here!" as shown in Figure 4. Finally, it will prompt whether to continue searching. Enter 'y' to be prompted again to choose the search method or enter 'n' to exit the student information search feature.
 Figure 3  Use student ID to find student information 
