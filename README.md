@@ -1,5 +1,5 @@
 # student_score_system
-《Student Scores System》Usage instructions
+## 《Student Scores System》Usage instructions
 
 Run "Student Scores System" in the coding editor to enter the main interface of the system as shown in Figure 1. In this interface, you can select different operations by choosing the desired functionality. When selecting a menu option, please enter the corresponding number to select.
 
