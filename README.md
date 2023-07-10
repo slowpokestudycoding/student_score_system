@@ -2,7 +2,8 @@
 《Student Scores System》Usage instructions
 
 Run "Student Scores System" in the coding editor to enter the main interface of the system as shown in Figure 1. In this interface, you can select different operations by choosing the desired functionality. When selecting a menu option, please enter the corresponding number to select.
- 
+ ![image](https://github.com/slowpokestudycoding/student_score_system/assets/130159100/c0bd6dc2-32a8-468b-b269-5ff6025882aa)
+
 Figure 1  the main interface of the system
 The operation steps are as follows:
 （1）	Add student information. 
